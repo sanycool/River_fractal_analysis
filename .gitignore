@@ -1,0 +1,9 @@
+build/
+venv/
+.venv/
+.pytest_cache/
+.vscode/
+__pycache__/
+
+dist/
+interpreter/
